@@ -1,6 +1,10 @@
 twinkle twinkle little star
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 Hello vivek dhyani
+=======
+Hello vivek dhyani
+>>>>>>> Stashed changes
 =======
 Hello vivek dhyani
 >>>>>>> Stashed changes
